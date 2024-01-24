@@ -61,7 +61,7 @@ const projectData = [
   {
     name: "DailyHotApi",
     author: "shiqustudio",
-    desc: "今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot",
+    desc: "今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署 | 前端页面：https://github.com/shiqustudio/DailyHot",
   },
   {
     name: "site-status",
