@@ -5,33 +5,58 @@
     "link": "https://blog.funvip.live/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://link3.cc/shiqu/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Bookmark",
+    "name": "书签页",
+    "link": "https://index.funvip.live/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "资源集",
+    "link": "https://shiqus.cn/"
+  },
+  {
+    "icon": "Airbnb",
+    "name": "Ai工具集",
+    "link": "https://blog.funvip.live/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/"
+  },
+  {
+    "icon": "Brain",
+    "name": "Ai知识集",
+    "link": "https://blog.funvip.live/posts/aisummary/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://site.funvip.live/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘工具",
+    "link": "https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐工具",
+    "link": "https://blog.funvip.live/dailyshare/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/"
+  },
+  {
+    "icon": "BattleNet",
+    "name": "线上工具",
+    "link": "https://blog.funvip.live/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/"
+  },
+  {
+    "icon": "Chrome",
+    "name": "浏览器工具",
+    "link": "https://blog.funvip.live/tools/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B7%A5%E5%85%B7/"
+  },
+  {
+    "icon": "Tools",
+    "name": "系统工具",
+    "link": "https://blog.funvip.live/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"
   }
 ]
