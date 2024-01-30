@@ -16,8 +16,18 @@
   },
   {
     "icon": "Fire",
-    "name": "资源集",
+    "name": "拾趣",
     "link": "https://shiqus.cn/"
+  },
+  {
+    "icon": "Crow",
+    "name": "语雀",
+    "link": "https://www.yuque.com/shiqustudio/"
+  },
+  {
+    "icon": "Sellsy",
+    "name": "永硕E盘",
+    "link": "http://shiqustudio.ysepan.com//"
   },
   {
     "icon": "Airbnb",
